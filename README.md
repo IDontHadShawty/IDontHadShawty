@@ -1,4 +1,4 @@
-## Hi there Kauan!! 👋
+## Hi guys, I'm a beat maker. 👋
 
 <!--
 **IDontHadShawty/IDontHadShawty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
