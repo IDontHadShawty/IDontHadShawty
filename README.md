@@ -1,17 +1,15 @@
 ## Hi guys, I'm a beat maker. 👋
 
-<!--
-**IDontHadShawty/IDontHadShawty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Kauan Palma
+ 
+- I'm studying at (alura) (www.https://cursos.alura.com.br/)
+- I am developing in the javascript language
+- I use this space to organize and share my projects developed
 
-Here are some ideas to get you started:
+- ### you can contact me 📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- kauanpalma3@gmail.com
+
+DC4H fan.
+
 ![octo](octocat-1720189734611.png)
