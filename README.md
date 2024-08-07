@@ -1,10 +1,10 @@
 ## Hi guys, I'm a beat maker. 👋
 
-my name is Kauan Palma
+my name is Kauan Palma.
  
-- I'm studying at (alura) (www.https://cursos.alura.com.br/)
-- I am developing in the javascript language
-- I use this space to organize and share my projects developed
+- I'm studying at (alura) (www.https://cursos.alura.com.br/).
+- I am developing in the javascript language.
+- I use this space to organize and share my projects developed.
 
 - ### you can contact me 📬
 
