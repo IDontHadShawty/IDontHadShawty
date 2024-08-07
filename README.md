@@ -10,6 +10,6 @@ my name is Kauan Palma
 
 - kauanpalma3@gmail.com
 
-DC4H fan.
+- DC4H fan.
 
 ![octo](octocat-1720189734611.png)
