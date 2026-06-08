@@ -1,4 +1,4 @@
-## Hi guys, I'm a beat maker. 👋
+## Hi guys. 👋
 
 my name is Kauan Palma.
  
